@@ -1,0 +1,1 @@
+python train.py --data ssjj.yaml --epochs 50 --weights runs\train\exp5\weights\best.pt --batch-size 16 --device 0 --multi-scale --freeze 10

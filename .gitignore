@@ -1,0 +1,9 @@
+.github
+cache
+datasets
+runs
+yolov5s.pt
+yolov5l.pt
+yolov5x.pt
+yolov5m.pt
+.idea
