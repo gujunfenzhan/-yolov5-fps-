@@ -14,6 +14,7 @@ import torch
 from utils.dataloaders import LoadScreenshots
 from models.common import DetectMultiBackend
 from utils.plots import Colors
+# v1.0
 # 是否保存图像用于后续训练
 save_image = False
 # 图像保存路径
