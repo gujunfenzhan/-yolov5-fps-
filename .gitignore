@@ -7,3 +7,12 @@ yolov5l.pt
 yolov5x.pt
 yolov5m.pt
 .idea
+onnx_test.py
+pt_test.py
+test.py
+train.bat
+a.py
+b.py
+c.py
+d.py
+e.py
